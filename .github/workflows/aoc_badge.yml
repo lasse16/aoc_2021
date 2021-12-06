@@ -2,5 +2,5 @@
   uses: J0B10/aoc-badges-action@v3.0.0
   with:
     session: ${{ secrets.AOC_SESSION }} 
-    userid:  ${{ secrets.AOC_SESSION }}
+    userid:  ${{ secrets.AOC_USER_ID }}
     year: 2021
