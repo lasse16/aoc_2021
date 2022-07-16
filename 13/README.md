@@ -95,8 +95,7 @@ Also notice that some dots can end up _overlapping_; in this case, the dots merg
 
 The second fold instruction is `fold along x=5`, which indicates this line:
 
-```
-#.##.|#..#.
+```#.##.|#..#.
 #...#|.....
 .....|#...#
 #...#|.....
